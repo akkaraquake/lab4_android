@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab4</string>
+    <string name="checkbox_text">Галочка не установлена</string>
+    <string name="togglebutton_text"></string>
+    <string name="new_year">Новый Год</string>
+    <string name="halloween">Хэллоуин</string>
+</resources>
